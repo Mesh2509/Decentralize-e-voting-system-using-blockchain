@@ -1,5 +1,5 @@
 # Decentralize-e-voting-system-using-blockchain
-Decentralized e-voting system using blockchain seminar report (SSGMCE College 2023–24)
+Decentralized e-voting system using blockchain seminar report (RMDSSOE College 2023–24)
 The E-voting using blockchain is implemented using technologies:
 1) React/Vanilla JS
 2) Remix IDE
